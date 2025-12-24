@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training Programs\\Web Applications\\ClaimApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|d:\\training programs\\web applications\\claimapplication\\features(pages)\\admin\\adminclaimview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\admin\\adminclaimview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|d:\\training programs\\web applications\\claimapplication\\data access\\claimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:data access\\claimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\employees\\employeedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\employees\\employeedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|d:\\training programs\\web applications\\claimapplication\\features(pages)\\employees\\employeedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\employees\\employeedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\claimapp.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:claimapp.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\admin\\addemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\admin\\addemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\admin\\addemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\admin\\addemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\buisness logics\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:buisness logics\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\admin\\adminreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\admin\\adminreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\claimapp.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:claimapp.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\employees\\myclaim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\employees\\myclaim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\employees\\myclaim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\employees\\myclaim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\employees\\addclaim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\employees\\addclaim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\features(pages)\\admin\\adminclaimview.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:features(pages)\\admin\\adminclaimview.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|D:\\Training Programs\\Web Applications\\ClaimApplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81A7E10D-883F-4435-928C-025EC83C0BED}|ClaimApplication.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLaimDAL.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Data Access\\CLaimDAL.cs",
+              "RelativeDocumentMoniker": "Data Access\\CLaimDAL.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Data Access\\CLaimDAL.cs",
+              "RelativeToolTip": "Data Access\\CLaimDAL.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA2wC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:53:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\EmployeeDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Features(pages)\\Employees\\EmployeeDashboard.aspx.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\EmployeeDashboard.aspx.cs",
+              "RelativeToolTip": "Features(pages)\\Employees\\EmployeeDashboard.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:29:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDashboard.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\EmployeeDashboard.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Employees\\EmployeeDashboard.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\EmployeeDashboard.aspx",
+              "RelativeToolTip": "Features(pages)\\Employees\\EmployeeDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-16T01:51:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminClaimView.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminClaimView.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Admin\\AdminClaimView.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminClaimView.aspx",
+              "RelativeToolTip": "Features(pages)\\Admin\\AdminClaimView.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-16T01:51:07.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployee.aspx.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AddEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "Features(pages)\\Admin\\AddEmployee.aspx.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AddEmployee.aspx.cs",
+              "RelativeToolTip": "Features(pages)\\Admin\\AddEmployee.aspx.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:33:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Features(pages)\\Login.aspx.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Login.aspx.cs",
+              "RelativeToolTip": "Features(pages)\\Login.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:45:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Login.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Login.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Login.aspx",
+              "RelativeToolTip": "Features(pages)\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-13T01:12:29.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Admin\\AdminDashboard.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminDashboard.aspx",
+              "RelativeToolTip": "Features(pages)\\Admin\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-13T01:12:45.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Home.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Home.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Home.aspx",
+              "RelativeToolTip": "Features(pages)\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-13T17:34:26.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Styles\\site.css",
+              "RelativeDocumentMoniker": "Styles\\site.css",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Styles\\site.css",
+              "RelativeToolTip": "Styles\\site.css",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-13T17:01:22.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddClaim.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\AddClaim.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Employees\\AddClaim.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\AddClaim.aspx",
+              "RelativeToolTip": "Features(pages)\\Employees\\AddClaim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-13T15:50:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimApp.Master.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\ClaimApp.Master.cs",
+              "RelativeDocumentMoniker": "ClaimApp.Master.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\ClaimApp.Master.cs",
+              "RelativeToolTip": "ClaimApp.Master.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawDUAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:35:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployee.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AddEmployee.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Admin\\AddEmployee.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AddEmployee.aspx",
+              "RelativeToolTip": "Features(pages)\\Admin\\AddEmployee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-13T16:25:23.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Buisness Logics\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "Buisness Logics\\EmployeeBLL.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Buisness Logics\\EmployeeBLL.cs",
+              "RelativeToolTip": "Buisness Logics\\EmployeeBLL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:27:48.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminReports.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminReports.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Admin\\AdminReports.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminReports.aspx",
+              "RelativeToolTip": "Features(pages)\\Admin\\AdminReports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-14T06:03:22.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClaimApp.Master",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\ClaimApp.Master",
+              "RelativeDocumentMoniker": "ClaimApp.Master",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\ClaimApp.Master",
+              "RelativeToolTip": "ClaimApp.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-12T14:58:23.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyClaim.aspx",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\MyClaim.aspx",
+              "RelativeDocumentMoniker": "Features(pages)\\Employees\\MyClaim.aspx",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\MyClaim.aspx",
+              "RelativeToolTip": "Features(pages)\\Employees\\MyClaim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-13T15:50:18.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyClaim.aspx.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\MyClaim.aspx.cs",
+              "RelativeDocumentMoniker": "Features(pages)\\Employees\\MyClaim.aspx.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Employees\\MyClaim.aspx.cs",
+              "RelativeToolTip": "Features(pages)\\Employees\\MyClaim.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:08:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-13T05:44:50.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminClaimView.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminClaimView.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Features(pages)\\Admin\\AdminClaimView.aspx.designer.cs",
+              "ToolTip": "D:\\Training Programs\\Web Applications\\ClaimApplication\\Features(pages)\\Admin\\AdminClaimView.aspx.designer.cs",
+              "RelativeToolTip": "Features(pages)\\Admin\\AdminClaimView.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:51:12.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
